@@ -1,0 +1,39 @@
+.todos {
+  height: 60px;
+  width: 95%;
+  display: flex;
+  align-items: center;
+  padding-left: 15px;
+  padding-right: 10px;
+  justify-content: space-between;
+  background-color: aliceblue;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.check {
+  width: 20px !important;
+  height: 20px;
+}
+.strikeds {
+  text-decoration: line-through;
+  color: rgb(207, 51, 12);
+}
+.red {
+  color: orange;
+}
+.green {
+  color: purple;
+}
+.ct {
+  color: rgb(12, 87, 62);
+}
+.todoitemsmainbox {
+  width: 24%;
+  height: 400px;
+  margin: auto;
+  overflow-x: hidden;
+  overflow-y: scroll;
+}
+.inputanddiv {
+  display: flex;
+}

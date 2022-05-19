@@ -1,0 +1,26 @@
+.todo {
+  margin: auto;
+  height: 1005px;
+  text-align: center;
+  font-size: larger;
+  background-color: rgb(18, 85, 230);
+}
+.todo input {
+  width: 380px;
+  height: 65px;
+  border: none;
+  border-radius: 20px;
+}
+.todo button {
+  padding-top: 50px;
+  padding: 12px 29px;
+  margin: 5px;
+  border-radius: 20px;
+  border: none;
+  color: white;
+  background-color: #001858;
+  font-size: xx-large;
+}
+.heading {
+  color: white;
+}
